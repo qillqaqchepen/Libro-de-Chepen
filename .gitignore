@@ -3,3 +3,7 @@ _site/
 .jekyll-metadata
 Gemfile.lock
 *.gem
+
+# Mac Specific files
+.DS_Store
+
